@@ -11291,6 +11291,10 @@ header.masthead .bg-circle-4 {
     color: #376eb5;
 }
 
+.bg-division {
+    background-color: var(--bs-gray-500);
+}
+
 @media (min-width: 992px) {
     header.masthead {
         padding-top: calc(10rem + 55px);
