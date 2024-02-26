@@ -11292,7 +11292,7 @@ header.masthead .bg-circle-4 {
 }
 
 .bg-division {
-    background-color: var(--bs-gray-500);
+    background-color: #adb5bd;
 }
 
 @media (min-width: 992px) {
