@@ -11283,6 +11283,10 @@ header.masthead .bg-circle-4 {
     width: 100%;
 }
 
+.button-size {
+    width: 340px;
+}
+
 .text-title {
     color: #376eb5;
 }
