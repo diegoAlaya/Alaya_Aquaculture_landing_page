@@ -11297,14 +11297,32 @@ header.masthead .bg-circle-4 {
     border: 1px solid #239b56;
 }
 
+.green:hover {
+    background-color: #145a32;
+    border: 1px solid #145a32;
+    color: white;
+}
+
 .blue {
     background-color: #1b4f72;
     border: 1px solid #1b4f72;
 }
 
+.blue:hover {
+    background-color: #154360;
+    border: 1px solid #154360;
+    color: white;
+}
+
 .purple {
     background-color: #4a235a;
-    border: 1px solid #1b4f72;
+    border: 1px solid #4a235a;
+}
+
+.purple:hover {
+    background-color: #512e5f;
+    border: 1px solid #512e5f;
+    color: white;
 }
 
 .bg-division {
