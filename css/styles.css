@@ -103,6 +103,7 @@
 
 body {
     margin: 0;
+    padding: 0;
     font-family: var(--bs-body-font-family);
     font-size: var(--bs-body-font-size);
     font-weight: var(--bs-body-font-weight);
@@ -11291,8 +11292,23 @@ header.masthead .bg-circle-4 {
     color: #376eb5;
 }
 
+.green {
+    background-color: #239b56;
+    border: 1px solid #239b56;
+}
+
+.blue {
+    background-color: #1b4f72;
+    border: 1px solid #1b4f72;
+}
+
+.purple {
+    background-color: #4a235a;
+    border: 1px solid #1b4f72;
+}
+
 .bg-division {
-    background-color: #adb5bd;
+    background-color: #eaecee;
 }
 
 @media (min-width: 992px) {
